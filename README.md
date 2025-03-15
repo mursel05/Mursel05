@@ -3,13 +3,7 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.facebook.com/share/1B7EEgoty9/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/m%C3%BCrs%C9%99l-haxverdiyev-387906287/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1B7EEgoty9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mursal-hakhverdiyev) 
 
 
 # 💻 Tech Stack:
