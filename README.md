@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mursel05&label=Profile%20views&color=0e75b6&style=flat" alt="mursel05" /> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1B7EEgoty9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mursal-hakhverdiyev) 
